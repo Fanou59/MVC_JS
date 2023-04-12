@@ -1,0 +1,14 @@
+body {
+    padding-top: 24px;
+}
+
+.active {
+    background-color: #dddddd;
+    box-shadow: 4px 4px 6px 1px #AAAAAA;
+}
+
+img {
+    display: block;
+    border: solid red 4px;
+    box-shadow: 4px 4px 6px 1px #AAAAAA;
+}
